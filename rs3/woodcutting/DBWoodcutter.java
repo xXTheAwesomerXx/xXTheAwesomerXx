@@ -19,7 +19,7 @@ import org.powerbot.script.rt6.Constants;
 import org.powerbot.script.rt6.GameObject;
 import org.powerbot.script.rt6.Item;
 
-@Script.Manifest(name = "DBWoodcutter", description = "Progressive Woodcutter made by xXTheAwesomerXx", properties = "")
+@Script.Manifest(name = "DBWoodcutter", description = "Progressive Woodcutter made by xXTheAwesomerXx", properties = "author=xXTheAwesomerXx; topic=1296051;")
 public class DBWoodcutter extends PollingScript<ClientContext> implements
 		MessageListener, PaintListener {
 
